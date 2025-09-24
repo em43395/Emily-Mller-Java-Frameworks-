@@ -1,5 +1,5 @@
 # WESTERN GOVERNORS UNIVERSITY 
-## D287 – JAVA FRAMEWORKS
+#JAVA FRAMEWORKS
 
 ## Task C: Customize Main page
 - File: `mainscreen.html`
