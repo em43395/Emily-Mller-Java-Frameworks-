@@ -1,4 +1,4 @@
-# WESTERN GOVERNORS UNIVERSITY 
+
 #JAVA FRAMEWORKS
 
 This repository contains a customized inventory management application built with Java (Spring Boot) and an HTML front end.
