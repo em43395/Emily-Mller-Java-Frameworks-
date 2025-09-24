@@ -1,6 +1,23 @@
 # WESTERN GOVERNORS UNIVERSITY 
 #JAVA FRAMEWORKS
+This repository contains a customized inventory management application built with Java (Spring Boot) and an HTML front end.
+Below is a summary of the changes I implemented throughout the project:
 
+User Interface Customization (Part C): Updated HTML to reflect store branding, products, and parts.
+
+About Page (Part D): Added a company “About” page with navigation links.
+
+Sample Inventory (Part E): Implemented logic to populate products/parts only when database is empty.
+
+Buy Now Button (Part F): Added purchasing functionality with success/failure messages.
+
+Inventory Constraints (Part G): Extended part entity with min/max fields, updated forms, enforced limits.
+
+Validation (Part H): Error messages for invalid inventory values across parts/products.
+
+Unit Testing (Part I): Added tests for min/max inventory rules.
+
+Code Cleanup (Part J): Removed unused validators for maintainability.
 ## Task C: Customize Main page
 - File: `mainscreen.html`
   - Line 14: Changed `<title>` to `Em’s Craft Store`
