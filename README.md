@@ -1,6 +1,7 @@
 # WESTERN GOVERNORS UNIVERSITY 
 #JAVA FRAMEWORKS
-This repository contains a customized inventory management application built with Java (Spring Boot) and an HTML front end.
+
+#This repository contains a customized inventory management application built with Java (Spring Boot) and an HTML front end.
 Below is a summary of the changes I implemented throughout the project:
 
 User Interface Customization (Part C): Updated HTML to reflect store branding, products, and parts.
